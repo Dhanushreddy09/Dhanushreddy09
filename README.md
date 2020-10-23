@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Vue js
 - 👯 I’m looking to collaborate on working with Open Source
-- 🤔 I’m looking for help with Ruby on rails
+- 🤔 I’m looking for help with Containerization
 - 💬 Ask me about Javascript
 - 📫 How to reach me: https://twitter.com/Dhanushreddy09
 - 😄 Pronouns: He/Him/His
