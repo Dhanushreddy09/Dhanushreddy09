@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with Containerization
 - 💬 Ask me about Javascript
 - 📫 How to reach me: https://twitter.com/Dhanushreddy09
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 
 
